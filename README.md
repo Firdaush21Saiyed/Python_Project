@@ -1,5 +1,5 @@
 # Python_Project
-# Video game sales python project on google colab 
+# Video Game Sales Python Project on Google Colab 
 **This project focuses on analyzing global video game sales data using Python to understand sales trends across different regions, genres, platforms, and publishers. The goal is to derive meaningful insights and visualize patterns that help explain video game market performance
 
 **STEP BY STEP PROJECT HOW IT WORK**
